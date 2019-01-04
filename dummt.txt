@@ -1,2 +1,2 @@
-I am Sam i like Ham
+I am Sam and some people call me Ham
 This is Second commit.
