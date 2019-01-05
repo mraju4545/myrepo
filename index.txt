@@ -1,1 +1,2 @@
 hi this is third file1
+Merging the new files
